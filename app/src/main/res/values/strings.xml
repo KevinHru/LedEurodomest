@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Led Eurodomest</string>
+    <string name="preference_file_device_name">me.khoarau.LedEurodomest.DeviceName</string>
+    <string name="help">If your LED lamp doesn't appear after a minute, try:\n-switch off \n-wait 15 seconds \n-switch on</string>
+</resources>
